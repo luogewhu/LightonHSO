@@ -14,3 +14,6 @@ getFeautures.py--使用androidguard的getpermission进行APK的权限信息提�
 adaboostDCLroc.py--绘制Adaboost的错误率随着迭代次数的关系
 
 svmroc.py--将动态的特征使用SVM分类并绘制ROC曲线
+
+关于如何动态获取日志信息，请看我的另外一个github目录
+https://github.com/luogewhu/Xposedeemo
